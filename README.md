@@ -9,3 +9,7 @@
     />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://file.garden/ZdgVLZzmo3pLm1q9/stamp.png" alt="hi">
+</p>
