@@ -14,8 +14,3 @@
   <img src="https://file.garden/ZdgVLZzmo3pLm1q9/stamp.png" alt="hi">
 </p>
 
-<p align="center">
-  <img src="https://64.media.tumblr.com/42d502819196cf847c08f55fde6b9ef3/9abfc27ce6cd15df-6d/s100x200/ee1204b345046d405e82f596bbaccda3837f08d6.gifv" alt="hi">
-</p>
-
-
